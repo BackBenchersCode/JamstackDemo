@@ -1,0 +1,16 @@
+body {
+font-size: sans-seriff;
+text-align: center;
+background-color: #FFF3D0;
+}
+h1 {
+    padding-top: 5rem;
+    font-size: 3rem;
+}
+image {
+    vertical-align: middle;
+    width:100px;
+}
+p {
+  color: #777;
+}
